@@ -1,0 +1,25 @@
+header  {color: #0000ff;
+	    font-size: 75px;
+	    text-align: center; position: relative;  
+	    text-transform: uppercase }
+
+img	{margin-bottom: 25px;
+	 margin-top: 25px;
+	 max-height: 100%;
+	 max-width: 100%; }
+
+.content {background-color: pink;
+	      column-count: 4;
+          font-size: 24px;
+          margin: 15px 0 15px 0 }
+
+
+.head {font-size: 36px;
+       text-align: center; position: relative;
+       text-transform: uppercase; }
+
+	   
+	   
+.subhead {border-bottom: 3px solid; color: black;
+	      border-top: 3px solid; color: black;
+          padding: 14px 0 14px 0 }
